@@ -1,0 +1,25 @@
+.background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%; /* Chiều rộng tùy chỉnh */
+    height: 100%;
+    z-index: -1; /* Đặt video ở phía sau các nội dung khác */
+}
+
+
+#pic1
+{
+    Position: absolute;
+    top: 10%;
+    left: 15%;  
+}
+
+#pic2
+{
+    Position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
